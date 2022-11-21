@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("feature2");
+        System.out.println("feature3");
 
         System.out.println("Εδώ είναι οι νέες αλλαγές");
     }
